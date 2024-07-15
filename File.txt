@@ -1,2 +1,4 @@
 
 Scenario 1: Enter Login Details
+
+Scenario 2 : Enter User Name
