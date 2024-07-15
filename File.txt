@@ -6,3 +6,4 @@ Scenario 2 : Enter User Name
 // User 2 Given
 Scenario 3: Enter the User name
 >>>>>>> Modulefile
+Scenrio 4 : Enter the Password
