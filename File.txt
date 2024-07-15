@@ -1,4 +1,8 @@
 
 Scenario 1: Enter Login Details
 
+// User 1 Given
 Scenario 2 : Enter User Name
+// User 2 Given
+Scenario 3: Enter the User name
+>>>>>>> Modulefile
